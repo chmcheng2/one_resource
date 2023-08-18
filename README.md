@@ -1,0 +1,2 @@
+# one_resource
+一个minecraft材质包而已用在我的服务器上
